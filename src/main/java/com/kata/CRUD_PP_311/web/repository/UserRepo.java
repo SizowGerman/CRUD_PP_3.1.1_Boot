@@ -1,8 +1,8 @@
-package web.repository;
+package com.kata.CRUD_PP_311.web.repository;
 
 
 import org.springframework.stereotype.Repository;
-import web.model.User;
+import com.kata.CRUD_PP_311.web.model.User;
 
 import jakarta.persistence.*;
 import java.util.List;

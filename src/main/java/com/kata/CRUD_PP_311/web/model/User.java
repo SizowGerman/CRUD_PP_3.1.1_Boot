@@ -1,4 +1,4 @@
-package web.model;
+package com.kata.CRUD_PP_311.web.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;

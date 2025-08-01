@@ -1,10 +1,10 @@
-package web.service;
+package com.kata.CRUD_PP_311.web.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import web.model.User;
-import web.repository.UserRepo;
+import com.kata.CRUD_PP_311.web.model.User;
+import com.kata.CRUD_PP_311.web.repository.UserRepo;
 
 import java.util.List;
 

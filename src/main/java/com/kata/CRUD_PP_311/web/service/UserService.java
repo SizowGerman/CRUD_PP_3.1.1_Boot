@@ -1,6 +1,6 @@
-package web.service;
+package com.kata.CRUD_PP_311.web.service;
 
-import web.model.User;
+import com.kata.CRUD_PP_311.web.model.User;
 
 import java.util.List;
 
